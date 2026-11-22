@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import React, { useState, useEffect } from 'react'
 
 const PAY_WORDS = ['jama', 'wapas', 'vapas', 'paid', 'chuka', 'payment', 'जमा', 'वापस', 'चुका', 'de diye', 'de diya', 'दे दिए', 'दे दिया']
 const PARTICLES = ['ko', 'ne', 'se', 'ka', 'ke', 'को', 'ने', 'से', 'का', 'के']
